@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="greeting" label="Greeting" language="en" table="x_10001_helloworld_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>greeting</element>
+            <help/>
+            <hint/>
+            <label>Greeting</label>
+            <language>en</language>
+            <name>x_10001_helloworld_table</name>
+            <plural>Greetings</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-12 15:05:15</sys_created_on>
+            <sys_id>5ba90889db13130006502fb7489619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Greeting</sys_name>
+            <sys_package display_value="HelloWorld" source="x_10001_helloworld">e3658485db13130006502fb748961991</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HelloWorld">e3658485db13130006502fb748961991</sys_scope>
+            <sys_update_name>sys_documentation_x_10001_helloworld_table_greeting_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-12 15:05:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -2,44 +2,44 @@
 <record_update>
     <sys_ui_section caption="" section_id="ecf90c89db13130006502fb748961909" sys_domain="global" table="x_10001_helloworld_table" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.begin_split</element>
+            <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-12 15:06:26</sys_created_on>
-            <sys_id>e0f90c89db13130006502fb74896190d</sys_id>
+            <sys_created_on>2018-07-12 15:09:51</sys_created_on>
+            <sys_id>e6ba84c9db13130006502fb7489619c0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_10001_helloworld_table" sys_domain="global" view="Default view">ecf90c89db13130006502fb748961909</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-12 15:06:26</sys_updated_on>
-            <sys_user/>
-            <type>.begin_split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>number</element>
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-12 15:06:26</sys_created_on>
-            <sys_id>e8f90c89db13130006502fb74896190d</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_10001_helloworld_table" sys_domain="global" view="Default view">ecf90c89db13130006502fb748961909</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-12 15:06:26</sys_updated_on>
+            <sys_updated_on>2018-07-12 15:09:51</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>greeting</element>
-            <position>2</position>
+            <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-12 15:06:26</sys_created_on>
-            <sys_id>6cf90c89db13130006502fb74896190d</sys_id>
+            <sys_created_on>2018-07-12 15:09:51</sys_created_on>
+            <sys_id>6aba84c9db13130006502fb7489619c0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_10001_helloworld_table" sys_domain="global" view="Default view">ecf90c89db13130006502fb748961909</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-12 15:06:26</sys_updated_on>
+            <sys_updated_on>2018-07-12 15:09:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>language</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-12 15:09:51</sys_created_on>
+            <sys_id>eaba84c9db13130006502fb7489619c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_10001_helloworld_table" sys_domain="global" view="Default view">ecf90c89db13130006502fb748961909</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-12 15:09:51</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,43 +47,71 @@
             <element>.split</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-12 15:06:26</sys_created_on>
-            <sys_id>ecf90c89db13130006502fb74896190d</sys_id>
+            <sys_created_on>2018-07-12 15:09:51</sys_created_on>
+            <sys_id>6eba84c9db13130006502fb7489619c0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_10001_helloworld_table" sys_domain="global" view="Default view">ecf90c89db13130006502fb748961909</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-12 15:06:26</sys_updated_on>
+            <sys_updated_on>2018-07-12 15:09:51</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>language</element>
+            <element>sys_created_on</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-12 15:06:26</sys_created_on>
-            <sys_id>60f90c89db13130006502fb74896190e</sys_id>
+            <sys_created_on>2018-07-12 15:09:51</sys_created_on>
+            <sys_id>eeba84c9db13130006502fb7489619c0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_10001_helloworld_table" sys_domain="global" view="Default view">ecf90c89db13130006502fb748961909</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-12 15:06:26</sys_updated_on>
+            <sys_updated_on>2018-07-12 15:09:51</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.end_split</element>
+            <element>sys_created_by</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-12 15:06:26</sys_created_on>
-            <sys_id>e0f90c89db13130006502fb74896190e</sys_id>
+            <sys_created_on>2018-07-12 15:09:51</sys_created_on>
+            <sys_id>62ba84c9db13130006502fb7489619c1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_10001_helloworld_table" sys_domain="global" view="Default view">ecf90c89db13130006502fb748961909</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-12 15:06:26</sys_updated_on>
+            <sys_updated_on>2018-07-12 15:09:51</sys_updated_on>
             <sys_user/>
-            <type>.end_split</type>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-12 15:09:51</sys_created_on>
+            <sys_id>e2ba84c9db13130006502fb7489619c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_10001_helloworld_table" sys_domain="global" view="Default view">ecf90c89db13130006502fb748961909</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-12 15:09:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_by</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-12 15:09:51</sys_created_on>
+            <sys_id>66ba84c9db13130006502fb7489619c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_10001_helloworld_table" sys_domain="global" view="Default view">ecf90c89db13130006502fb748961909</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-12 15:09:51</sys_updated_on>
+            <sys_user/>
+            <type/>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
